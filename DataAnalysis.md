@@ -12,10 +12,10 @@
 
 项目目录下含有以下4份问卷分析报告：
 
-- [关于校园食堂便利性、安全性和多样性的调查_原始问卷数据.xlsx](https://github.com/divefor/HCI_E4_T.24/blob/main/关于校园食堂便利性、安全性和多样性的调查_原始问卷数据.xlsx)
-- [关于校园食堂便利性、安全性和多样性的调查-有效.docx](https://github.com/divefor/HCI_E4_T.24/blob/main/关于校园食堂便利性、安全性和多样性的调查-有效.docx)
-- [关于校园食堂便利性、安全性和多样性的调查-有效.png](https://github.com/divefor/HCI_E4_T.24/blob/main/关于校园食堂便利性、安全性和多样性的调查-有效.png)
-- [关于校园食堂便利性、安全性和多样性的调查-有效.pptx](https://github.com/divefor/HCI_E4_T.24/blob/main/关于校园食堂便利性、安全性和多样性的调查-有效.pptx)
+- [关于校园食堂便利性、安全性和多样性的调查_原始问卷数据.xlsx](https://github.com/divefor/HCI/blob/main/关于校园食堂便利性、安全性和多样性的调查_原始问卷数据.xlsx)
+- [关于校园食堂便利性、安全性和多样性的调查-有效.docx](https://github.com/divefor/HCI/blob/main/关于校园食堂便利性、安全性和多样性的调查-有效.docx)
+- [关于校园食堂便利性、安全性和多样性的调查-有效.png](https://github.com/divefor/HCI/blob/main/关于校园食堂便利性、安全性和多样性的调查-有效.png)
+- [关于校园食堂便利性、安全性和多样性的调查-有效.pptx](https://github.com/divefor/HCI/blob/main/关于校园食堂便利性、安全性和多样性的调查-有效.pptx)
 
 ### 采访
 
@@ -25,10 +25,10 @@
 
 项目目录下含有4份记录：
 
-- [访谈记录1.docx](https://github.com/divefor/HCI_E4_T.24/blob/main/访谈记录1.docx)
-- [访谈记录2.docx](https://github.com/divefor/HCI_E4_T.24/blob/main/访谈记录2.docx)
-- [访谈记录3.docx](https://github.com/divefor/HCI_E4_T.24/blob/main/访谈记录3.docx)
-- [访谈记录4.docx](https://github.com/divefor/HCI_E4_T.24/blob/main/访谈记录4.docx)
+- [访谈记录1.docx](https://github.com/divefor/HCI/blob/main/访谈记录1.docx)
+- [访谈记录2.docx](https://github.com/divefor/HCI/blob/main/访谈记录2.docx)
+- [访谈记录3.docx](https://github.com/divefor/HCI/blob/main/访谈记录3.docx)
+- [访谈记录4.docx](https://github.com/divefor/HCI/blob/main/访谈记录4.docx)
 
 ### 总述
 
