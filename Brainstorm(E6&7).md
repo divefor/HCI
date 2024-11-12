@@ -38,9 +38,9 @@ HMW（How Might We ... ?）：
 
 #### 故事板
 
-![4](E6&7pic/4.png)
+![4-instead](E6&7pic/4-instead.png)
 
-![5](E6&7pic/5.png)
+![5-instead](E6&7pic/5-instead.png)
 
 
 
